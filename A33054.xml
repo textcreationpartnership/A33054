@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A form of prayer with thanksgiving to Almighty God to be used in all churches and chapels within this realm every year, upon the sixth day of February, being the day on which His Majesty began his happy reign / by His Majesties special command.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33054</idno>
+            <idno type="STC">Wing C4174</idno>
+            <idno type="STC">ESTC R38743</idno>
+            <idno type="EEBO-CITATION">17962526</idno>
+            <idno type="OCLC">ocm 17962526</idno>
+            <idno type="VID">106787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1121:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A form of prayer with thanksgiving to Almighty God to be used in all churches and chapels within this realm every year, upon the sixth day of February, being the day on which His Majesty began his happy reign / by His Majesties special command.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benjamin Tooke ... and are to be sold by Andrew Crook ... and by Samuel Helsham ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Church of England --  Liturgy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106787:1"/>
+            <p>A FORM OF PRAYER WITH THANKSGIVING, TO Almighty GOD; To be uſed in all Churches and Chap<g ref="char:EOLhyphen"/>pels within this Realm every Year, upon the Sixth Day of <hi>February,</hi> be<g ref="char:EOLhyphen"/>ing the Day on which His Majeſty began His Happy Reign.</p>
+            <p>
+               <hi>By His Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Benjamin Tooke,</hi> Printer to the King's Moſt Excellent Majeſty; And are to be Sold by <hi>Andrew Crook</hi> at the King's Printing-houſe upon <hi>Ormond-Key,</hi> and by <hi>Samuel Helſham</hi> at the <hi>Colledge-Arms</hi> in <hi>Caſtle-ſtreet,</hi> 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106787:2"/>
+            <pb facs="tcp:106787:2"/>
+            <head>A Form of Prayer with Thanksgiving To Almighty God;</head>
+            <head type="sub">To be uſed in all Churches and Chappels within this Realm, every Year upon the Sixth Day of <hi>February;</hi> Being the Day on which His Majeſty began His Happy Reign.</head>
+            <p>¶ The Service ſhall be the ſame with the uſual Office for Holy Days in all things, Except where it is in this Office otherwiſe appointed.</p>
+            <p>¶ If this Day ſhall happen to be Sunday, the Proper Office for that Sunday ſhall be wholly omitted, and this uſed inſtead of it. But if it ſhall happen to be the firſt Day of <hi>Lent</hi> (commonly call'd <hi>Aſh-Wed<g ref="char:EOLhyphen"/>neſday</hi>) this Office of Thankſgiving ſhall be perfor<g ref="char:EOLhyphen"/>med the Day before: And however it ſhall happen, there ſhall be Notice thereof given publickly in the Church the Sunday before.</p>
+            <div type="part">
+               <head>¶ Morning Prayer ſhall begin with theſe Sentences.</head>
+               <p>I <hi>Exhort, That firſt of all Supplications, Prayers, Intercesſions, and giving of Thanks be made for all Men: for Kings, and All, that are in Authority; That we may lead a quiet, and peaceable life in all Godlineſs, and Honeſty: for this is good, and acceptable unto God our Saviour.</hi> 1 Tim. II. 1, 2, 3.</p>
+               <p>
+                  <hi>If we ſay that we have no ſin, we deceive our ſelves, and the truth is not in us: But if we confeſs our ſins, He is faithful and juſt to forgive us our ſins, and to cleanſe us from all unrighteouſneſs,</hi> 1 S. John 1.8, 9.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:106787:3"/>
+               <head>¶ In ſtead of <hi>
+                     <g ref="char:V">Ʋ</g>enite Exultemus,</hi> the Hymn fol<g ref="char:EOLhyphen"/>lowing ſhall be ſaid, or ſung; One Verſe by the Prieſt, and another by the Clerk and People.</head>
+               <p>O <hi>Lord our Governor,</hi>
+                  <note place="margin">Pſal. viii. 1.</note> 
+                  <hi>how excellent is thy Name in all the World / thou, that haſt ſet thy Glory above the Heavens.</hi>
+               </p>
+               <p>Lord,<note place="margin">cxliv. 3.</note> what is Man, that thou haſt ſuch Re<g ref="char:EOLhyphen"/>ſpect unto him: or the Son of Man, that thou ſo regardeſt him:</p>
+               <p>
+                  <hi>Thou haſt made him little lower,</hi>
+                  <note place="margin">viii. 5.</note> 
+                  <hi>than the Angels: and thou crowneſt him with Glory, and Honour.</hi>
+               </p>
+               <p>Thou makeſt him to have Dominion over the Works of thine Hands:<note place="margin">6.</note> and thou haſt put all things in ſubjection under his Feet.</p>
+               <p>
+                  <hi>For promotion cometh neither from the Eaſt,</hi>
+                  <note place="margin">lxxv. 7.</note> 
+                  <hi>nor from the Weſt: nor yet from the South.</hi>
+               </p>
+               <p>For why?<note place="margin">8.</note> God is the Judge: he putteth down One, and ſetteth up Another.</p>
+               <p>
+                  <hi>There is no king;</hi>
+                  <note place="margin">xxxiii. 15.</note> 
+                  <hi>that can be ſaved by the Multitude of an Hoſt: neither is any mighty Man delivered by much Strength.</hi>
+               </p>
+               <p>An Horſe is a vain thing,<note place="margin">16.</note> to ſave a Man: nei<g ref="char:EOLhyphen"/>ther ſhall he deliver any by his great ſtrength.</p>
+               <p>
+                  <hi>Bleſſed is the people,</hi>
+                  <note place="margin">xxx ii. 12.</note> 
+                  <hi>whoſe God is the Lord Iehovah: and bleſſed are the Folk, whom he hath choſen to him to be his In<g ref="char:EOLhyphen"/>heritance.</hi>
+               </p>
+               <pb facs="tcp:106787:3"/>
+               <p>Happy are the people,<note place="margin">Pſ. cxliv. 15.</note> that be in ſuch a Caſe: yea bleſſed are the people, which have the Lord for their God.</p>
+               <p>
+                  <hi>'Tis He,</hi>
+                  <note place="margin">lxxvii. 20<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>that leadeth his people like ſheep: by the Hand of Moſes, and Aaron.</hi>
+               </p>
+               <p>'Tis He that hath made us,<note place="margin">C. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> and not we our ſelves: We are his people, and the ſheep of his paſture.</p>
+               <p>
+                  <hi>'Tis He,</hi>
+                  <note place="margin">cxliv. 10.</note> 
+                  <hi>that giveth Salvation unto Kings: and delivereth David his Servant from the peril of the Sword.</hi>
+               </p>
+               <p>'Tis He,<note place="margin">xviii. 43.</note> that delivereth them from the Stri<g ref="char:EOLhyphen"/>vings of the people: and ſubdueth the people, that is under them.</p>
+               <p>
+                  <hi>Their Device is only to put him out,</hi>
+                  <note place="margin">lxii. 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>whom God will exalt:</hi>
+                  <note place="margin">xviii. 45.</note> 
+                  <hi>and the ſtrange chil<g ref="char:EOLhyphen"/>dren diſſemble with him.</hi>
+               </p>
+               <p>Yet haſt thou, (O God) ſet thy King:<note place="margin">11.6.</note> upon thy holy Hill of Sion.</p>
+               <p>
+                  <hi>Behold, O God our Defender:</hi>
+                  <note place="margin">lxxxiv. 9.</note> 
+                  <hi>and look upon the Face of thine Anointed.</hi>
+               </p>
+               <p>O hold thou up his Goings in thy paths:<note place="margin">xvi i. 5.</note> that his Foot-ſteps ſlip not.</p>
+               <p>
+                  <hi>Let thy Hand be upon the Man of thy right Hand:</hi>
+                  <note place="margin">lxxx. 17.</note> 
+                  <hi>and upon the Son of Man, whom thou haſt made ſo ſtrong for thine own ſelf.</hi>
+               </p>
+               <p>O give him the Comfort of thy Help:<note place="margin">li. 12.</note> and ſtabliſh him with thy free and princely Spirit.</p>
+               <p>
+                  <hi>Give the King thy Iudgments,</hi>
+                  <note place="margin">lxxii. 1.</note> 
+                  <hi>O God: and thy Righteouſneſs unto the King's Son.</hi>
+               </p>
+               <pb facs="tcp:106787:4"/>
+               <p>Then ſhall he judge thy people according un<g ref="char:EOLhyphen"/>to Right:<note place="margin">Pſal. lxxii. 2.</note> and defend the Poor.</p>
+               <p>
+                  <hi>Shew (him) thy marvellous loving Kindneſs:</hi>
+                  <note place="margin">xvii. 7.</note> 
+                  <hi>thou, that art the Saviour of them, that put their truſt in theé, from ſuch as reſiſt thy right Hand.</hi>
+               </p>
+               <p>Keep him as the Apple of an Eye:<note place="margin">xvii. 8.</note> hide him under the ſhadow of thy wings.</p>
+               <p>
+                  <hi>Thou ſhalt grant the King a long life:</hi>
+                  <note place="margin">lxi, 6.</note> 
+                  <hi>that his years may be as many Genera<g ref="char:EOLhyphen"/>tions.</hi>
+               </p>
+               <p>He ſhall dwell before God for ever:<note place="margin">7.</note> O pre<g ref="char:EOLhyphen"/>pare thy loving Mercy, and Faithfulneſs, that they may preſerve him.</p>
+               <p>
+                  <hi>In his time ſhall the Righteous flouriſh:</hi>
+                  <note place="margin">lxxii. 7.</note> 
+                  <hi>and abundance of Peace, ſo long as the Moon endureth.</hi>
+               </p>
+               <p>His Dominion ſhall be alſo from the one Sea unto the other:<note place="margin">8.</note> and from the River unto the Lands end.</p>
+               <p>
+                  <hi>As for his Enemies,</hi>
+                  <note place="margin">cxxxii. 19.</note> 
+                  <hi>God ſhall clothe them with ſhame<g ref="char:punc">▪</g> but upon himſelf ſhall the Crown flouriſh.</hi>
+               </p>
+               <p>Great proſperity giveth He unto his King:<note place="margin">xviii. 52.</note> and ſheweth loving Kindneſs unto his Anointed, and unto his ſeed for evermore.</p>
+               <p>
+                  <hi>Bleſſed be the Lord God of Iſrael from everlaſting, and world without end:</hi>
+                  <note place="margin">cvi. 46.</note> 
+                  <hi>and let all the People ſay,</hi> Amen.</p>
+               <p>Even ſo;<note place="margin">lxxi. 19.</note> Bleſſed be the Name of His Ma<g ref="char:EOLhyphen"/>jeſty for ever: and let all the Earth be fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led
+<pb facs="tcp:106787:4"/>with His Majeſty. <hi>Amen,</hi> and <hi>Amen.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>Glory be to the Father,</hi> &amp;c.</l>
+                  <l>As it was in the beginning, <hi>&amp;c.</hi>
+                  </l>
+               </q>
+               <p>¶ Proper Pſalms. XX.XXI.LXXXV.CXVIII.</p>
+               <p>¶ Proper Leſſons.
+<list>
+                     <item>The firſt, Joſ. I. <hi>Te Deum.</hi>
+                     </item>
+                     <item>The ſecond, Rom. XIII. <hi>Jubilate Deo.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <p>¶ The Suffrages next after the Creed ſhall ſtand thus.</p>
+               <p>Prieſt. <hi>O Lord, ſhew thy Mercy upon us.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> And grant us thy Salvation.</p>
+               <p>Prieſt. <hi>O Lord ſave the King.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Who putteth his truth in thee.</p>
+               <p>Prieſt. <hi>Send him help from thy holy place.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> And evermore mightily defend him.</p>
+               <p>Prieſt. <hi>Let his Enemies have no Advan<g ref="char:EOLhyphen"/>tage againſt him.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Let not the Wicked approch to hurt him.</p>
+               <p>Prieſt. <hi>Endue thy Miniſters with Righ<g ref="char:EOLhyphen"/>teouſneſs.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> And make thy choſen people joyful.</p>
+               <p>Prieſt. <hi>O Lord ſave thy People.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> And bleſs thine Inheritance.</p>
+               <p>Prieſt. <hi>Be unto us, O Lord, a ſtrong Tower.</hi>
+               </p>
+               <pb facs="tcp:106787:5"/>
+               <p>
+                  <hi>Anſ.</hi> From the Face of our Enemies.</p>
+               <p>Prieſt. <hi>O Lord, hear our Prayer.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> And let our Cry come unto thee.</p>
+            </div>
+            <div type="part">
+               <head>¶ Inſtead of the firſt Collect at Morning-Prayer ſhall theſe two, which follow, be uſed.</head>
+               <p>ALmighty God, whoſe Kingdom is e<g ref="char:EOLhyphen"/>verlaſting, and Power infinite; We are taught by thy holy Word, that the Hearts of Kings are in thy Rule, and Governance, and that thou do'ſt diſpoſe, and turn them, as it ſeémeth beſt to thy Godly Wiſdom: We humbly beſeéch theé, ſo to diſpoſe and govern the Heart of <hi>James</hi> thy Servant, our King, and Governour, that he knowing whoſe Mi<g ref="char:EOLhyphen"/>niſter he is, may in all his Thoughts, Words, and Works, even ſeék thy Ho<g ref="char:EOLhyphen"/>nour, and Glory, and ſtudy to preſerve thy People committed to his Charge in Wealth, Peace, and Godlineſs: And, that we and all his Subjects, (duely conſidering whoſe Authority he hath) may faithfully ſerve, honour, and humly obey him in theé, and for theé, accord<g ref="char:EOLhyphen"/>ing to thy bleſſed Word, and Ordinance: through Ieſus Chriſt our Lord, who with theé, and the Holy Ghoſt <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>eth and reign<g ref="char:EOLhyphen"/>eth ever one God, World without End. <hi>Amen.</hi>
+               </p>
+               <pb facs="tcp:106787:5"/>
+               <p>
+                  <hi>O</hi> Moſt Gracious, and Powerful Lord God, who by thy Divine Providence didſt as this Day, Safely, and Quietly place over us in the Imperial Throne of this Kingdom, thy Servant, our moſt gra<g ref="char:EOLhyphen"/>cious Sovereign Lord King <hi>James;</hi> We thine Vnworthy Servants, here Aſſembled together to Celebrate the Memory of this thy great Mercy toward us, moſt humbly beſeech thee to grant us Grace, that we may always ſhew our ſelves truly, and unfeign<g ref="char:EOLhyphen"/>edly thankful unto thee for the ſame; And that our gracious King may through thy Mercy long continue his Reign over us in all Vertue, Godlineſs and Honour. Pre<g ref="char:EOLhyphen"/>ſerve his Life, and Eſtabliſh his Throne. Let his Reign be proſperous, and his Days many. Let Iuſtice, Truth, and Holineſs, Let Peace, and Love, and all Chriſtian Vertues flouriſh in his Days. Be unto him (we beſeech thee) an Helmet of Salvation, againſt his Enemies; and a ſtrong Tower of Defence in the time of Trouble. Let all his People Serve him with Honour, and Obedience: And let him ſo duly, and reli<g ref="char:EOLhyphen"/>giouſly Serve thee here upon Earth, that hereafter he may Everlaſtingly Reign with thee in Heaven, through Ieſus Chriſt thy Son, our Saviour. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:106787:6"/>
+               <head>¶ In the End of the Litany (which ſhall always be uſed upon this Day) after the Collect, <hi>We humbly beſeech thee, O Father,</hi> &amp;c. ſhall the following Prayer <hi>For the King and Royal Fa<g ref="char:EOLhyphen"/>mily</hi> be uſed.</head>
+               <p>
+                  <hi>O</hi> Lord, our God, who upholdeſt, and governeſt all things in Heaven, and Earth; Receive our humble Prayers with our Thankſgivings for our Sovereign Lord <hi>James,</hi> as this Day ſet over us by thy Grace, and Providence to be our King: And ſo together with him bleſs his Royal Conſort, our Gracious Queén <hi>Mary, Kathe<g ref="char:EOLhyphen"/>rine</hi> the Queén Dowager, the Princeſſes, <hi>Mary</hi> and <hi>Anne;</hi> and the whole Royal Fa<g ref="char:EOLhyphen"/>mily, with the Sew of thy holy Spirit; That they all ever truſting in thy Goodneſs, protected by thy Power, and crowned with thy gracious, and endleſs Favour, may continue before theé, in Health, Peace, Ioy; and Honour, a long, and happy Life upon Earth; And after Death obtain ever<g ref="char:EOLhyphen"/>laſting Life, and Glory in the Kingdom of Heaven, by the Merits, and Mediation of Chriſt Ieſus our Saviour; Who with the Father, and the holy Spirit liveth, and reigneth ever one God world without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:106787:6"/>
+               <head>¶ In the Communion-Service immediately be<g ref="char:EOLhyphen"/>fore the reading of the Epiſtle, inſtead of the Collect for the King, and that of the Day, ſhall theſe two be uſed, as before in Morn<g ref="char:EOLhyphen"/>ing-Prayer.</head>
+               <p>Almighty God, whoſe Kingdom is ever<g ref="char:EOLhyphen"/>laſting, <hi>&amp;c.</hi>
+               </p>
+               <p>O moſt gracious, and powerful Lord God, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ After the <hi>Nicene</hi> Creed ſhall be read the Homily, <hi>Concerning Obedience to Rulers and Magiſtrates,</hi> ſet forth by Authority: Or the Miniſter who officiates ſhall preach a Ser<g ref="char:EOLhyphen"/>mon of his own compoſing upon the ſame Argument.</head>
+               <div type="reading">
+                  <head>The Epiſtle. 1 S. Pet. 2.11.</head>
+                  <p>DEarly beloved, I beſeéch you as ſtran<g ref="char:EOLhyphen"/>gers and pilgrims, abſtain from fleſh<g ref="char:EOLhyphen"/>ly luſts, which war againſt the Soul: Ha<g ref="char:EOLhyphen"/>ving your converſation honeſt among the Gentiles: that whereas they ſpeak againſt you as evil-doers, they may by your good Works, which they ſhall behold, glorify God in the day of viſitation. Submit your ſelves to every Ordinance of man for the Lords ſake: whether it be to the King, as ſupreme; Or unto Governours, as unto them that
+<pb facs="tcp:106787:7"/>are ſent by him for the puniſhment of evil-doers, and for the praiſe of them that do well. For ſo is the Will of God, that with well-doing ye may put to ſilence the igno<g ref="char:EOLhyphen"/>rance of fooliſh men: As freé, and not u<g ref="char:EOLhyphen"/>ſing your liberty for a cloke of maliciouſ<g ref="char:EOLhyphen"/>neſs, but as the Servants of God. Ho<g ref="char:EOLhyphen"/>nour all Men. Love the Brotherhood. Fear God, Honour the King.</p>
+               </div>
+               <div type="reading">
+                  <head>The Goſpel. S. Matt. 22.16.</head>
+                  <p>ANd they ſent out unto him their Diſ<g ref="char:EOLhyphen"/>ciples, with the Herodians, ſaying, Maſter, we know that thou art true, and teacheſt the way of God in truth, neither eareſt thou for any man: for thou regard<g ref="char:EOLhyphen"/>eſt not the perſon of men. Tell us there<g ref="char:EOLhyphen"/>fore, What thinkeſt thou? Is it lawful to give Tribute unto Ceſar, or not? But Ie<g ref="char:EOLhyphen"/>ſus perceived their wickedneſs, and ſaid, Why tempt ye me, ye Hypocrites? Shew me the Tribute money. And they brought unto him a Peny. And he ſaith unto them, Whoſe is this Image and Superſcripti<g ref="char:EOLhyphen"/>on? They ſay unto him, Ceſars. Then ſaith he unto them, Render therefore un<g ref="char:EOLhyphen"/>to Ceſar, the things which are Ceſars: and unto God, the things that are Gods, When they heard theſe words, they mar<g ref="char:EOLhyphen"/>velled, and leſt him, and went their way.</p>
+                  <pb facs="tcp:106787:7"/>
+                  <p>¶ <hi>In the Offertory ſhall this Sentence be read.</hi>
+                  </p>
+                  <p>Godineſs is great Riches, if a man be content with that he hath. For we brought nothing into the World; nei<g ref="char:EOLhyphen"/>ther may we carry any thing out. <hi>1 Tim. vi. 6, 7.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>¶ After the Prayer, <hi>For the whole State of Chriſts Church,</hi> &amp;c theſe Collects following ſhall be uſed.</head>
+               <p>GRant, we beſeéch theé, Almighty God, That our Sovereign Lord the King, whom of thine eſpecial Grace, and Favour thou haſt (as upon this Day) happily ſettl<g ref="char:EOLhyphen"/>ed in the Throne of Supream Govern<g ref="char:EOLhyphen"/>ment over us; being ſtrengthned and eſta<g ref="char:EOLhyphen"/>bliſhed with thy freé and princely Spirit, the Spirit of Wiſdom, and Government, the Spirit of Counſel, and Ghoſtly Strength, the Spirit of Knowledge, and true Godlineſs, and being filled with the Spirit of thy holy Fear; may be always a Religious Defender of thy holy Faith, and Church among us, a gracious Go<g ref="char:EOLhyphen"/>vernour unto all his Subjects, a glorious Conquerour over all his Enemies, a migh<g ref="char:EOLhyphen"/>ty Protector of the People committed to his Charge, and a happy Father of a nu<g ref="char:EOLhyphen"/>merous
+<pb facs="tcp:106787:8"/>Poſterity, to Rule theſe Nations after him by Succeſſion in all Ages, and Generations. And grant alſo gracious Lord, that we, and all his Subjects, both of this Kingdom, and in all other his Do<g ref="char:EOLhyphen"/>minions, duly conſidering, that there is no Power but of God, and that the Powers, that be are ordained of God, may be ſubject, and obedient to him, not only for Wrath, but alſo for Conſcience ſake; and ſo may long enjoy, together with him the Conti<g ref="char:EOLhyphen"/>nuance of theſe thy great Bleſſings, which by him thou doſt vouchſafe unto us, lead<g ref="char:EOLhyphen"/>ing a quiet and peaceable Life in all God<g ref="char:EOLhyphen"/>lineſs, and Honeſty, through Ieſus Chriſt, our only Lord, and Saviour: To whom with theé, O Father, and God the holy Ghoſt be Glory in the Church throughout all ages World without End. <hi>Amen.</hi>
+               </p>
+               <p>ANd grant, O Lord, we beſeéch theé, that the Courſe of this World may be ſo peaceably ordered by thy Governance, that thy Church may joyfully ſerve theé, in all godly Quietneſs, through Ieſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:106787:8"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
